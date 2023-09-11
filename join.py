@@ -1,3 +1,6 @@
+"""
+Join temlate and script files into a single .vue file.
+"""
 import os
 import re
 import sys

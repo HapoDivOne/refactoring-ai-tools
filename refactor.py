@@ -1,8 +1,7 @@
 """
 Refactoring tool using ChatGPT from Vue 2 to Vue 3
-
-$ export OPENAPI_APIKEY=sk-...
-$ python refactor.py MyView.vue
+Example:
+$ python refactor.py MyView.ts
 """
 
 import os
